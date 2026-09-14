@@ -30,3 +30,4 @@ forma estruturada, em vez de um texto livre.
 
 
 <img width="154" height="171" alt="endereco_aluno" src="https://github.com/user-attachments/assets/f7aa9768-0197-4ec8-b2e1-4e0d6d376f34" />
+<img width="212" height="109" alt="tipo_logradouro" src="https://github.com/user-attachments/assets/7de85912-d050-4de3-8a2d-2a0b04889b12" />
