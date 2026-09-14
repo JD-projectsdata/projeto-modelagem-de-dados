@@ -12,9 +12,12 @@ que armazena os tipos possíveis de telefone — residencial, celular, ou
 qualquer outro que venha a existir — sem limitar o modelo a categorias
 fixas.
 
-![Tabela Telefones_Aluno](tabela-Telefones_Aluno-2fn.png)
+<img width="214" height="172" alt="telefones_aluno" src="https://github.com/user-attachments/assets/b9498bde-c104-44ea-945e-7d352c9e5084" />
 
-![Tabela Tipo_Telefone](tabela-Tipo_Telefone-2fn.png)
+
+
+<img width="143" height="92" alt="tipo_telefone" src="https://github.com/user-attachments/assets/88386bf4-0317-4f1a-b0a8-d4fcd979b49d" />
+
 
 
 ## Resolvendo Endereço
@@ -25,4 +28,5 @@ entidade Tipo_Logradouro — não estritamente obrigatória, mas
 adotada para qualificar o tipo de logradouro (rua, avenida, etc.) de
 forma estruturada, em vez de um texto livre.
 
-![Tabela Endereco_Aluno](tabela-endereco_aluno-2fn.png)
+
+<img width="154" height="171" alt="endereco_aluno" src="https://github.com/user-attachments/assets/f7aa9768-0197-4ec8-b2e1-4e0d6d376f34" />
