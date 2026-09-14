@@ -66,8 +66,7 @@ breve descrição de cada campo.
 <img width="1200" height="328" alt="atributos-da-entidade-prof_disciplina" src="https://github.com/user-attachments/assets/9aa74420-55e6-4f86-92a6-d7b2ac10d3b6" />
 
 
-<img width="1189" height="343" alt="atributos-da-entidade-aluno_disc" src="https://github.com/user-attachments/assets/8ab5c1ec-efac-4dcd-b8d6-e6927b90f0e4" />
-
+<img width="1204" height="321" alt="atributos-da-entidade-aluno_disc" src="https://github.com/user-attachments/assets/0dde648a-70e9-4365-b0c0-3778d9a405eb" />
 
 
 <img width="597" height="471" alt="atributos-da-entidade-endereco_aluno" src="https://github.com/user-attachments/assets/f4844dd7-5f9d-4707-94a3-bcf0965c20e0" />
