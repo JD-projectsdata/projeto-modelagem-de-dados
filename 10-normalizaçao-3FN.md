@@ -19,4 +19,4 @@ Abaixo, o modelo lógico completo, já refletindo todas as decomposições
 aplicadas nas etapas de normalização.
 
 
-![1789259264225](image/10-normalizaçao-3FN/1789259264225.png)
+<img width="1252" height="1341" alt="Lógico_1 - normalização-3fn" src="https://github.com/user-attachments/assets/33910e05-3296-456c-bf04-023a923a66ea" />
