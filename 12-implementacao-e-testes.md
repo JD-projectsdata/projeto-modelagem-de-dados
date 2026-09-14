@@ -22,4 +22,4 @@ dependência entre chaves estrangeiras), inserção de dados de exemplo,
 consultas de validação e testes de restrição — está reunido em um único
 script:
 
-[`sql/create _tables.sql`](../sql/create_tables.sql)
+[create_tables.sql](https://github.com/user-attachments/files/32214776/create_tables.sql)
