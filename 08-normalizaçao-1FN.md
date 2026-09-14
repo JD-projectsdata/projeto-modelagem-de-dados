@@ -22,16 +22,16 @@ novos campos permaneceram na própria tabela Aluno; se devem ou não migrar
 para uma tabela à parte é uma decisão resolvida nas formas normais
 seguintes.
 
-![Tabela Aluno](tabela-aluno-1fn.png)
+<img width="193" height="422" alt="normalizacao-1FN" src="https://github.com/user-attachments/assets/77c6a91e-c644-47d2-9b57-2490642935bf" />
 
 
 ## Tabela Histórico
 
 Período_Realização representava dois valores implícitos — data de
 início e data de término — em um único campo. Foi substituído pelos
-campos Data_Início e Data_Fim
+campos Data_Inicio e Data_Fim
 
-![Tabela Histórico](tabela-historico-1fn.png)
+<img width="189" height="157" alt="historico" src="https://github.com/user-attachments/assets/3b919389-bc38-47a5-9ae4-4cb450fd92dc" />
 
 
 ## Demais tabelas
